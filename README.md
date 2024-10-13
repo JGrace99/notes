@@ -26,3 +26,5 @@ Lab Assignment 3 For COMP1238
 * **_BOLD AND ITALIC_**
 1. List
    1. Sublist
+
+[CLI commands](docs/cli.md)
