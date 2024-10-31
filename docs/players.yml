@@ -1,6 +1,29 @@
 ---
-- name: James Brown
-  sports: Basketball
-  team:
-    name: Raptors
-    city: Toronto
+- Player:
+    name: Lebron James
+    Sport: Basketball
+    team: Lakers
+    Team City: Los Angeles
+    Position: Forward
+    Age: '38'
+- Player:
+    name: Lionel Messi
+    Sport: Soccer
+    team: Inter Miami
+    Team City: Miami
+    Position: Forward
+    Age: '36'
+- Player:
+    name: Serena Williams
+    Sport: Tennis
+    team: N/A
+    Team City: N/A
+    Position: Player
+    Age: '41'
+- Player:
+    name: Tom Brady
+    Sport: Football
+    team: Buccaneers
+    Team City: Tampa Bay
+    Position: Quarterback
+    Age: '46'
