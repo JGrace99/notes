@@ -1,14 +1,21 @@
 [
   {
-    "Player": {"name":"Lebron James", "Sport":"Basketball", "team":"Lakers", "Team City":"Los Angeles", "Position":"Forward", "Age":"38"}
+    "name": "James Brown"  
+  },
+  {   
+    "sports": "Basketball",
+    "team": {"name":"Raptors", "city":"Toronto"}
+	},
+  {
+    "player": {"name":"Lebron James", "sport":"Basketball", "team":"Lakers", "team city":"Los Angeles", "position":"Forward", "age":"38"}
   },
   {
-    "Player": {"name":"Lionel Messi", "Sport":"Soccer", "team":"Inter Miami", "Team City":"Miami", "Position":"Forward","Age":"36"}
+    "player": {"name":"Lionel Messi", "sport":"Soccer", "team":"Inter Miami", "team city":"Miami", "position":"Forward","age":"36"}
   },
   {
-    "Player": {"name":"Serena Williams", "Sport":"Tennis", "team":"N/A", "Team City":"N/A", "Position":"Player", "Age":"41"}
+    "player": {"name":"Serena Williams", "sport":"Tennis", "team":"N/A", "team city":"N/A", "position":"Player", "age":"41"}
   },
   {
-    "Player": {"name":"Tom Brady", "Sport":"Football", "team":"Buccaneers", "Team City":"Tampa Bay", "Position":"Quarterback", "Age":"46"}
+    "player": {"name":"Tom Brady", "sport":"Football", "team":"Buccaneers", "team city":"Tampa Bay", "position":"Quarterback", "age":"46"}
   }
 ]
